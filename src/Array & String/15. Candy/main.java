@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ClassName {
+class candy {
     static class Solution {
         public int candy(int[] ratings) {
             int n = ratings.length;
